@@ -2,6 +2,10 @@
 
 Aplicação web interativa construída com Streamlit para explorar e visualizar dados de anúncios de venda de veículos.
 
+## App publicado
+
+Acesse o app online: [https://vehicles-dashboard-x3y8.onrender.com](https://vehicles-dashboard-x3y8.onrender.com)
+
 ## Funcionalidades
 
 - **Histograma do Odômetro**: distribuição da quilometragem dos veículos anunciados
